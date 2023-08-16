@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "The VMD Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "VMD Lab at University of Tokyo"
 sitemap: false
 permalink: /
 ---
