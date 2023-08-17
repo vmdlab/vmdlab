@@ -1,7 +1,7 @@
 ---
-title: "The VMD Lab - Home"
+title: "Home"
 layout: homelay
-excerpt: "VMD Lab at University of Tokyo"
+excerpt: "VMD@U-Tokyo"
 sitemap: false
 permalink: /
 ---
