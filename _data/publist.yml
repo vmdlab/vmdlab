@@ -1,7 +1,7 @@
 - title: "Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts"
   image: 2023_PnD.png
   description:  
-  authors: Jixuan Li, <b>Duc Minh Vo</b>, Hideki Nakayama
+  authors: Jiaxuan Li, <b>Duc Minh Vo</b>, Hideki Nakayama
   link:
     url: https://github.com/Jiaxuan-Li/PnD
     display: International Conference on Computer Vision (ICCV), 2023
@@ -15,7 +15,7 @@
   link:
     url: https://arxiv.org/abs/2306.00241
     display: AI for Content Creation Workshop @CVPR, 2023
-  highlight: 1
+  highlight: 0
 
 - title: "A-CAP: Anticipation Captioning with Commonsense Knowledge"
   image: 2023_A_Cap.png
@@ -34,7 +34,7 @@
   link:
     url: https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Indirect_Adversarial_Losses_via_an_Intermediate_Distribution_for_Training_GANs_WACV_2023_paper.pdf
     display: IEEE Winter Conference on Applications of Computer Vision (WACV), 2023
-  highlight: 1
+  highlight: 0
 
 - title: "StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning "
   image: 2022_StoryER.png
@@ -83,7 +83,7 @@
   link:
     url: http://www.mva-org.jp/Proceedings/2021/papers/O1-2-3.pdf
     display: 17th International Conference on Machine Vision Applications , 2021 
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Visual-Relation Conscious Image Generation from Structured-Text "
@@ -102,7 +102,7 @@
   link:
     url: http://www.dgcv.nii.ac.jp/Publications/Papers/2021/ICPR2020a.pdf
     display: 25th International Conference on Pattern Recognition (ICPR), 2020 
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Paired-D GAN for Semantic Image Synthesis"
@@ -134,7 +134,7 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7900279
     display: 23rd International Conference on Pattern Recognition (ICPR), 2016
-  highlight: 1
+  highlight: 0
   news2: See [Poster](https://drive.google.com/open?id=1dAHOcDXdrRiT8iPFyEUhQg-30x9epwi3)
 
 
