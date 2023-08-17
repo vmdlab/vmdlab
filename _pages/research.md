@@ -12,7 +12,7 @@ National Institute of Informatics Open Collaborative Research (2nd call) 2023
 JSPS Grant-in-Aid for Early-Career Scientists  (KAKENHI) (2022 - 2024)
 
 ## Research Project
-National Institute of Informatics Open Collaborative Research (2023/7 - 2024/3):  Exploiting Visio-Linguistic Knowledge Base for Improving Vision – Language Modalities (Principle Investigator)
+National Institute of Informatics Open Collaborative Research (2023/7 - 2024/3):  Exploiting Visio-Linguistic Knowledge Base for Improving Vision – Language Modalities (Principal Investigator)
 
 JSPS Grant-in-Aid for Early-Career Scientists  (KAKENHI) (2022 - 2024): Vision and language cross-modal for training conditional GANs with long-tail data (Principal Investigator)
 
