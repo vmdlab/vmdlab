@@ -92,7 +92,7 @@ firstp {
 }
 
 .carousel img {
-    object-fit:cover;
+    object-fit: contain;
     height:300px !important;
     width:auto;
 }
