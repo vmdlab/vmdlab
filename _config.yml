@@ -44,6 +44,3 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-#Google site verification
-# enable_google_verification: true
-#google_site_verification: 2k8WrOyGlDh4jmvxTxTVSwHcZVgeWU3EngWXwVeJjCc
