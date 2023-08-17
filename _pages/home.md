@@ -12,13 +12,13 @@ permalink: /
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -38,8 +38,13 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2022_PPCD_GAN.png" alt="Slide 5" />
         </div>       
-         <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2018_WACV.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+          <center>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chibi.jpg" alt="Slide 7" />
+          </center>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
