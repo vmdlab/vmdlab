@@ -15,7 +15,7 @@
   link:
     url: 
     display: First International Workshop on Embodied Semiotics (EmSemi2023) (Idea presentation)
-  highlight: 1
+  highlight: 0
   
 - title: "Biases mitigation in medical images via knowledge guidance"
   image: coming_soon.jpg
@@ -24,7 +24,7 @@
   link:
     url: 
     display: First International Workshop on Embodied Semiotics (EmSemi2023) (Idea presentation)
-  highlight: 1
+  highlight: 0
 
 - title: "Enhancing Sign Language Translation with Quantized Video Encoding"
   image: coming_soon.jpg
@@ -33,6 +33,6 @@
   link:
     url: 
     display: First International Workshop on Embodied Semiotics (EmSemi2023) (Idea presentation)
-  highlight: 1
+  highlight: 0
 
 
