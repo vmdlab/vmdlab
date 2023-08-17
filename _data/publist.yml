@@ -1,3 +1,14 @@
+- title: "Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts"
+  image: 2023_PnD.png
+  description:  
+  authors: Jixuan Li, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url:
+    display: International Conference on Computer Vision (ICCV), 2023
+  highlight: 1
+  news2: See [Code](https://github.com/Jiaxuan-Li/PnD)
+
+
 - title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
   description:  
