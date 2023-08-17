@@ -25,7 +25,7 @@
 
 - name: "This could be you !"
   photo: chibi.jpg
-  info: See <a href="https://vmdlab.github.io/vacancies">openings</a> for more info
+  info: Email me for more info
   email: labmail@gmail.com
   number_educ: 0
   education1:
