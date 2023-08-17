@@ -15,8 +15,153 @@
     1 oral paper accepted at EMNLP 2022: StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning
   
 - date: <b>July-Sep 2022</b>
-  headline: "1 BMVC, 1 ACCV, 1 WACV, 1 EMNLP papers submitted\n\nACCV 2022, WACV 2023, AAAI 2023 reviewer\n\n1 paper accepted to IEEE Access: Stochastically Flipping Labels of Discriminator’s Outputs for Training Generative Adversarial Networks"
+  headline: |
+    1 BMVC, 1 ACCV, 1 WACV, 1 EMNLP papers submitted
+  
+    ACCV 2022, WACV 2023, AAAI 2023 reviewer
+  
+    1 paper accepted to IEEE Access: Stochastically Flipping Labels of Discriminator’s Outputs for Training Generative Adversarial Networks"
   
 - date: <b>Jun 2022</b>
-  headline: "Attending CVPR 2022 (New Orleans)\n\nInvited talk (AIST)"
+  headline: |
+    Attending CVPR 2022 (New Orleans)
+    
+    Invited talk (AIST)"
+
+- date: <b>Mar 2022</b>
+  headline: |
+    JSPS Grant-in-Aid for Early-Career Scientists  (KAKENHI)
+    
+    2 papers accepted at CVPR 2022
+      - NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge
+      - OSSGAN: Open-Set Semi-Supervised Image Generation
+    
+    1 paper accepted to Machine Vision and Applications (MVAP): Paired-D++ GAN for Image Manipulation with Text
+    
+    2 ECCV papers submitted
+    
+    ECCV 2022 reviewer
+    
+- date: <b>Jan 2022</b>
+  headline: |
+    Attending WACV 2022 (Hawaii)
+
+    1 IJCAI paper submitted
+
+    ICPR 2022 reviewer
+    
+- date: <b>Oct-Dec 2021</b>
+  headline: |
+    1 paper accepted at WACV 2022, "PPCD-GAN: Progressive Pruning and Class-Aware Distillation for Large-Scale Conditional GANs Compression"
+
+    3 CVPR papers submitted
+
+    1 NAACL paper submitted
+
+    CVPR 2022 reviewer
+    
+- date: <b>Jul-Sep 2021</b>
+  headline: |
+    1 BMVC paper submitted
+
+    2 WACV papers submitted
+
+    2 AAAI papers submitted
+
+    BMVC 2021 external reviewer, NeurIPS 2021 emergency reviewer (Datasets and Benchmarks Track ), WACV 2022 reviewer
+    
+- date: <b>Jun 2021</b>
+  headline:  1 paper accepted at MVA (oral), "Saliency based Subject Selection for Diverse Image Captioning
+  
+- date: <b>Mar 2021</b>
+  headline: |
+    ICCV 2021 reviewer
+
+    1 MVA (conference) paper submitted
+
+    2 ICCV papers submitted
+
+    1 ICMR paper submitted
+
+- date: <b>Dec 2020</b>
+  headline: CVPR 2021 reviewer
+
+- date: <b>Nov 2020</b>
+  headline: |
+    CVIU paper submitted
+
+    1 CVPR 2021 paper submitted
+    
+- date: <b>Oct 2020</b>
+  headline: work as postdoctoral researcher at Nakayama's lab, The University of Tokyo
+
+- date: <b>Sep 2020</b>
+  headline: graduated from SOKENDAI and NII
+  
+- date: <b>Jul 2020</b>
+  headline: |
+    Ph.D. thesis defense, "Learning-based Image Synthesis by Utilizing Disentangled Feature Representations"
+
+    1 paper accepted at ECCV 2020, "Visual-Relation Conscious Image Generation from Structured-Text" 
+    
+- date: <b>Jun 2020</b>
+  headline:  1 paper accepted at ICPR 2020, "Stylized-Colorization for Line-Arts"
+  
+- date: <b>May 2020</b>
+  headline: 1 paper published in Machine Vision and Applications (Two-Stream FCNs to Balance Content and Style for Style Transfer)
+  
+- date: <b>Apr 2020</b>
+  headline:  1 ICPR 2020 paper submitted
+  
+- date: <b>Mar 2020</b>
+  headline: |
+    ECCV 2020 reviewer
+
+    1 ECCV 2020 paper submitted
+    
+- date: <b>Nov 2019</b>
+  headline: |
+    1 CVPR 2020 paper submitted
+
+    1 pre-print paper submitted (Two-Stream FCNs to Balance Content and Style for Style Transfer)
+    
+- date: <b>Aug 2019</b>
+  headline:  1 pre-print paper submitted (Visual-Relation Conscious Image Generation from Structured-Text)
+  
+- date: <b>Jul-Sep 2019</b>
+  headline:  Internship at VLLab, UC Merced, research on video generation project
+  
+- date: <b>Jul 2019</b>
+  headline: 1 MVA submitted
+
+- date: <b>Apr 2019</b>
+  headline: |
+    Released code for our paper "Paired-D GAN for Semantic Image Synthesis" (ACCV 2018) [project page]
+
+    Released code for our paper [[project page](https://github.com/vominhduc/2Stream-Style-Transfer), updating...]
+
+- date: <b>Mar 2019</b>
+  headline: 1 ICCV 2019 paper submitted
+  
+- date: <b>Nov 2018</b>
+  headline: 1 CVPR 2019 paper submitted
+  
+- date: <b>Sep 2018</b>
+  headline:  1 paper accepted at ACCV 2018, "Paired-D GAN for Semantic Image Synthesis" 
+  
+- date: <b>Dec 2017</b>
+  headline: 1 paper accepted at WACV 2018, "Balancing Content and Style with Two-Stream FCNs for Style Transfer "
+  
+- date: <b>Oct 2017</b>
+  headline: PhD student at SOKENDAI, Japan
+  
+- date: <b>Apr-Sep 2017</b>
+  headline: Internship at NII, Japan, research on style transfer project
+  
+- date: <b>Jul 2016</b>
+  headline: 1 paper accepted at ICPR 2016, "Facial Expression Recognition by Re-ranking with Global and Local Generic Features "
+  
+- date: <b>Aug 2015 - Jan 2016</b>
+  headline: Internship at NII, Japan, research on facial recognition project
+
 

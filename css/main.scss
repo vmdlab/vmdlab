@@ -91,3 +91,8 @@ firstp {
     margin-right: 30px;
 }
 
+.carousel img {
+    object-fit:cover;
+    height:300px !important;
+    width:auto;
+}

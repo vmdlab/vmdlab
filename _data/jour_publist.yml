@@ -1,0 +1,30 @@
+- title: "Stochastically Flipping Labels of Discriminator’s Outputs for Training Generative Adversarial Networks"
+  image: coming_soon.jpg
+  description:  
+  authors: Yang Rui, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url: https://ieeexplore.ieee.org/document/9903615
+    display: IEEE Access, 2022
+  highlight: 1
+
+
+- title: "Paired-D++ GAN for Image Manipulation with Text"
+  image: 2018_ACCV_2022_MVAP.png
+  description:  
+  authors: <b>Duc Minh Vo</b>, Akihiro Sugimoto
+  link:
+    url: https://dl.acm.org/doi/abs/10.1007/s00138-022-01298-7
+    display: Machine Vision and Applications (MVAP), 2022
+  highlight: 1
+  
+- title: "Two-stream FCNs to Balance Content and Style for Style Transfer"
+  image: 2018_WACV.png
+  description:  
+  authors: <b>Duc Minh Vo</b>, Akihiro Sugimoto
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs00138-020-01086-1
+    display: Machine Vision and Applications (MVAP),  2020
+  highlight: 1
+
+
+
