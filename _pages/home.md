@@ -58,7 +58,7 @@ We are a dynamic research group, at [Nakayama Lab](http://www.nlab.ci.i.u-tokyo.
 Our current research interests include but are not limited to: 
 computer vision and machine learning, including but not limited to image/video synthesis (GAN), style transfer,  vision and language, image recognition, debiasing, transfer learning and deep learning.
 
-We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research), [Publications](publications). 
+We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research), [Publications](publications)). 
 
 <!--
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
