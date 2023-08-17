@@ -25,7 +25,7 @@
 
 - name: "This could be you !"
   photo: chibi.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://vmdlab.github.io/vacancies">openings</a> for more info
   email: labmail@gmail.com
   number_educ: 0
   education1:
