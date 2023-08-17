@@ -13,6 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: ""
 
+plugins: 
+  - jekyll-sitemap
+
 include:
   - .htaccess
   - _pages
