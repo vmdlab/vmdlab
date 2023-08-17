@@ -3,11 +3,10 @@
   description:  
   authors: Jixuan Li, <b>Duc Minh Vo</b>, Hideki Nakayama
   link:
-    url:
+    url: https://github.com/Jiaxuan-Li/PnD
     display: International Conference on Computer Vision (ICCV), 2023
   highlight: 1
   news2: See [Code](https://github.com/Jiaxuan-Li/PnD)
-
 
 - title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
@@ -17,7 +16,6 @@
     url: https://arxiv.org/abs/2306.00241
     display: AI for Content Creation Workshop @CVPR, 2023
   highlight: 1
-
 
 - title: "A-CAP: Anticipation Captioning with Commonsense Knowledge"
   image: 2023_A_Cap.png
