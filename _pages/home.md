@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Vision, Multimodality and Deep learning Laboratory**
+**Vision, Multimodality and Deep learning**
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,21 +53,16 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Grad. School of Information Science and Technology, the University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
+We are a dynamic research group, at [Nakayama Lab](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html), [Grad. School of Information Science and Technology, the University of Tokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
 
 Our current research interests include but are not limited to: 
-Computer Vision: image recognition and retrieval, medical image analysis, video recognition, image generation and conversion
-
-Natural Language Processing: machine translation, discourse analysis, dialog, text generation
-
-Multimodal: language and vision, multi-task learning, knowledge transfer
-
-Machine Learning and Deep Learning Methods
+computer vision and machine learning, including but not limited to image/video synthesis (GAN), style transfer,  vision and language, image recognition, debiasing, transfer learning and deep learning.
 
 We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+<!--
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+-->
 
 
 
