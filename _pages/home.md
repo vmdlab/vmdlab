@@ -62,8 +62,8 @@ I am VO Minh Duc, a Project Assistant Professor at [Nakayama Lab](http://www.nla
 
 I received B.Sc. and M.S. degrees in Computer Science at the University of Science, Vietnam National University Ho Chi Minh City. I received Ph.D. degree in Computer Science at [The Graduate University for Advanced Studies (SOKENDAI)](https://www.soken.ac.jp/en/)  (while at [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)), advised by [Prof. Akihiro Sugimoto](http://www.dgcv.nii.ac.jp).
 
-I am collaborating closely with members of our lab as well as external collaborators.
-Our current research interests include but are not limited to: 
+I am collaborating closely with members of our lab as well as external collaborators (see [Team](team)).
+Our current research interests include, but are not limited to: 
 computer vision and machine learning, including but not limited to image/video synthesis (GAN, Diffusion model), style transfer,  vision and language, image recognition, debiasing, transfer learning, and deep learning.
 
 We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research), [Publications](publications)). 
