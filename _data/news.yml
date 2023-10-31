@@ -1,5 +1,13 @@
 - date: <b>Oct 2023</b>
-  headline: 3 papers accepted to WACV 2024.
+  headline: |
+    A commentary paper accepted for publication in 日本画像学会誌 (Journal of the Imaging Society of Japan): Anticipation Captioning with Commonsense Knowledge
+    
+    3 papers accepted to WACV 2024
+    + Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data
+    + Revisiting Latent Space of GAN Inversion for Robust Real Image Editing
+    + Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data
+
+    Attending ICCV 2023 in Paris, France.
 
 - date: <b>Sep 2023</b>
   headline: |
@@ -14,7 +22,7 @@
   headline: |
     1 paper accepted at ICCV 2023: Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts. 
 
-    Attending MIRU 2023 at Hamamatsu, Japan.
+    Attending MIRU 2023 in Hamamatsu, Japan.
     
 - date: <b>Jun 2023</b>
   headline: |
@@ -26,7 +34,7 @@
 
     Presenting at the First International Workshop on Embodied Semiotics.
     
-    Attending JSAI 2023 at Kumamoto, Japan.
+    Attending JSAI 2023 in Kumamoto, Japan.
 
 - date: <b>May 2023</b>
   headline: "1 paper accepted at AI4CC workshop (CVPR 2023): Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space."
