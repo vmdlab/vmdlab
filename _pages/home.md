@@ -75,7 +75,7 @@ We want to be able to build the perfect instruments to answer the scientific que
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Utokyo.png" style="width: 70px">
+  <a href="https://www.u-tokyo.ac.jp/en/index.html"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Utokyo.png" style="width: 70px"></a>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UtokyoG.png" style="width: 70px">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kyotoU.png" style="width: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kyotoUG.png" style="width: 70px"> -->
