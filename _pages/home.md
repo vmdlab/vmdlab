@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home - VMD@U-Tokyo"
 layout: homelay
 excerpt: "VMD@U-Tokyo"
 sitemap: false
@@ -76,7 +76,7 @@ We want to be able to build the perfect instruments to answer the scientific que
 
 <figure class="fourth">
   <a href="https://www.u-tokyo.ac.jp/en/index.html"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Utokyo.png" style="width: 70px"></a>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UtokyoG.png" style="width: 70px">
+  <a href="https://www.i.u-tokyo.ac.jp/index_e.shtml"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UtokyoG.png" style="width: 70px"></a>
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kyotoU.png" style="width: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kyotoUG.png" style="width: 70px"> -->
 </figure>
