@@ -15,7 +15,8 @@ url: ""
 
 plugins: 
   - jekyll-sitemap
-
+  - jekyll-seo-tag
+  
 include:
   - .htaccess
   - _pages
