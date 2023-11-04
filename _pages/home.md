@@ -1,7 +1,7 @@
 ---
-title: "Home - VMD@U-Tokyo"
+title: "Home - VMD Lab@U-Tokyo"
 layout: homelay
-excerpt: "VMD@U-Tokyo"
+excerpt: "Vo Minh Duc laboratory in the University of Tokyo. Our current research interests are computer vision and machine learning, including but not limited to image/video synthesis (GAN, Diffusion model), style transfer,  vision and language, image recognition, debiasing, transfer learning, domain adaptation, and deep learning."
 sitemap: false
 permalink: /
 ---
