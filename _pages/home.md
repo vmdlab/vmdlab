@@ -1,5 +1,5 @@
 ---
-title: "Home - VMD Lab@U-Tokyo"
+title: "VMD Lab@U-Tokyo | VO Minh Duc Laboratory"
 layout: homelay
 excerpt: "Vo Minh Duc laboratory in the University of Tokyo. Our current research interests are computer vision and machine learning, including but not limited to image/video synthesis (GAN, Diffusion model), style transfer,  vision and language, image recognition, debiasing, transfer learning, domain adaptation, and deep learning."
 sitemap: false
@@ -66,7 +66,7 @@ I am collaborating closely with members of our lab as well as external collabora
 Our current research interests are 
 computer vision and machine learning, including but not limited to image/video synthesis (GAN, Diffusion model), style transfer,  vision and language, image recognition, debiasing, transfer learning, domain adaptation, and deep learning.
 
-We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research), [Publications](publications)). 
+We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see our [Researchs](research), and [Publications](publications)). 
 
 <!--
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
