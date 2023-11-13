@@ -3,7 +3,7 @@ title: "VMD Lab - Team"
 layout: gridlay
 excerpt: "VMD Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team
 ---
 
 # Group Members
