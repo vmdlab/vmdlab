@@ -26,6 +26,8 @@ We expect Ph.D course applicants to have enough skills and experiences to do res
 Please visit [here](http://www.i.u-tokyo.ac.jp/edu/course/ci/index.shtml).
 
 
+<!--
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/nlab_group_photo.jpg" width="95%">
 </figure>
+-->
