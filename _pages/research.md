@@ -3,7 +3,7 @@ title: "VMD Lab - Research"
 layout: textlay
 excerpt: "VMD Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 ## Research Fund
