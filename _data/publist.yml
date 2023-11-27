@@ -1,3 +1,22 @@
+- title: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"
+  image: coming_soon.jpg
+  description:  
+  authors: JiaXuan Li, <b>Duc Minh Vo</b>, Akihiro Sugimoto, Hideki Nakayama
+  link:
+    url: https://arxiv.org
+    display: ArXiv
+  highlight: 0
+  news2: [Project page](https://jiaxuan-li.github.io/EVCap/)
+
+- title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
+  image: coming_soon.jpg
+  description:  
+  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url: https://arxiv.org/abs/2311.12897
+    display: ArXiv
+  highlight: 0
+
 - title: "Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts"
   image: 2023_PnD.png
   description:  
