@@ -22,7 +22,7 @@
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Bei Liu, Hideki Nakayama
   link:
     url: https://arxiv.org/abs/2307.08995
-    display: Winter Conference on Applications of Computer Vision, 2024
+    display: IEEE Winter Conference on Applications of Computer Vision (WACV), 2024
   highlight: 0
 
 - title: "Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data"
@@ -31,7 +31,7 @@
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Tatsuya Harada, Hideki Nakayama
   link:
     url: https://arxiv.org
-    display: Winter Conference on Applications of Computer Vision, 2024
+    display: IEEE Winter Conference on Applications of Computer Vision (WACV), 2024
   highlight: 0
 
 - title: "Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data"
@@ -40,7 +40,7 @@
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
   link:
     url: https://arxiv.org
-    display: Winter Conference on Applications of Computer Vision, 2024
+    display: IEEE Winter Conference on Applications of Computer Vision (WACV), 2024
   highlight: 0
 
 - title: "Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts"
