@@ -26,7 +26,7 @@ permalink: /publications
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" height="90%" object-fit="contain" style="float: left" alt="{{ publi.title }}"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" max-height="20vw" style="float: left" alt="{{ publi.title }}"/>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -94,7 +94,7 @@ permalink: /publications
 
 <p> &nbsp; </p>
 
-## Full List of publications
+## Full list of publications
 
 ### International conference/workshop
 
