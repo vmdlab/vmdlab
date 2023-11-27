@@ -139,6 +139,10 @@ permalink: /publications
 
 ## Full List of publications
 
+### International conference/workshop
+
+{% assign number_printed = 1 %}
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
@@ -146,12 +150,16 @@ permalink: /publications
 
 {% endfor %}
 
+### Domestic conference/workshop
+
 {% for publi in site.data.dom_publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+### Journal
 
 {% for publi in site.data.jour_publist %}
 
