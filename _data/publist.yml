@@ -1,3 +1,12 @@
+- title: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"
+  image: coming_soon.jpg
+  description:  
+  authors: JiaXuan Li, <b>Duc Minh Vo</b>, Akihiro Sugimoto, Hideki Nakayama
+  link:
+    url: https://arxiv.org
+    display: ArXiv
+  highlight: 0
+  
 - title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
   image: coming_soon.jpg
   description:  
@@ -7,13 +16,13 @@
     display: ArXiv
   highlight: 0
 
-- title: "Revisiting Latent Space of GAN Inversion for Robust Real Image Editing"
+- title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
   description:  
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Bei Liu, Hideki Nakayama
   link:
-    url: https://arxiv.org/abs/2306.00241
-    display: AI for Content Creation Workshop @CVPR, 2023
+    url: https://arxiv.org/abs/2307.08995
+    display: Winter Conference on Applications of Computer Vision, 2024
   highlight: 0
 
 - title: "Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data"
@@ -44,13 +53,13 @@
   highlight: 1
   news2: See [Code](https://github.com/Jiaxuan-Li/PnD)
 
-- title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
+- title: "Revisiting Latent Space of GAN Inversion for Robust Real Image Editing"
   image: coming_soon.jpg
   description:  
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Bei Liu, Hideki Nakayama
   link:
-    url: https://arxiv.org/abs/2307.08995
-    display: Winter Conference on Applications of Computer Vision, 2024
+    url: https://arxiv.org/abs/2306.00241
+    display: AI for Content Creation Workshop @CVPR, 2023
   highlight: 0
 
 - title: "A-CAP: Anticipation Captioning with Commonsense Knowledge"
