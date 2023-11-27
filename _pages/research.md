@@ -25,7 +25,7 @@ Invited talk at AIST (2023): Beyond simply describing what we see.
 
 Invited talk at AIST (2022):  Novel Object Captioning with Retrieved Vocabulary from External Knowledge.
 
-Reviewer at ECCV 2020/22, CVPR 2021/22/23, ICCV 2021/2023, ICPR 2022, WACV 2022, BMVC 2022, ACCV 2022, AAAI 2023, CVIU.
+Reviewer at ECCV 2020~, CVPR 2021~, ICCV 2021~, ICPR 2022, WACV 2022, BMVC 2022, ACCV 2022, AAAI 2023, CVIU, EACL.
 
 Poster presentation in ICPR 2016/20, WACV 2018/22, ACCV 2018, ECCV 2020, CVPR 2022
 
