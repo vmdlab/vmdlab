@@ -3,10 +3,9 @@
   description:  
   authors: JiaXuan Li, <b>Duc Minh Vo</b>, Akihiro Sugimoto, Hideki Nakayama
   link:
-    url: https://arxiv.org
-    display: ArXiv
+    url: https://jiaxuan-li.github.io/EVCap/
+    display: Project page
   highlight: 0
-  news2: See [Project page](https://jiaxuan-li.github.io/EVCap/)
   
 - title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
   image: coming_soon.jpg
