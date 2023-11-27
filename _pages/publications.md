@@ -98,7 +98,7 @@ permalink: /publications
 
 ### International conference/workshop
 
-{% assign number_printed = 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% for publi in site.data.publist %}
 
@@ -109,6 +109,8 @@ permalink: /publications
 
 ### Domestic conference/workshop
 
+{% assign number_printed = number_printed | plus: 1 %}
+
 {% for publi in site.data.dom_publist %}
 
   {{ publi.title }} <br />
@@ -117,6 +119,8 @@ permalink: /publications
 {% endfor %}
 
 ### Journal
+
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% for publi in site.data.jour_publist %}
 
