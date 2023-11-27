@@ -17,6 +17,33 @@
     display: ArXiv
   highlight: 0
 
+- title: "Revisiting Latent Space of GAN Inversion for Robust Real Image Editing"
+  image: coming_soon.jpg
+  description:  
+  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Bei Liu, Hideki Nakayama
+  link:
+    url: https://arxiv.org/abs/2306.00241
+    display: AI for Content Creation Workshop @CVPR, 2023
+  highlight: 0
+
+- title: "Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data"
+  image: coming_soon.jpg
+  description:  
+  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Tatsuya Harada, Hideki Nakayama
+  link:
+    url: https://arxiv.org
+    display: Winter Conference on Applications of Computer Vision, 2024
+  highlight: 0
+
+- title: "Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data"
+  image: coming_soon.jpg
+  description:  
+  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url: https://arxiv.org
+    display: Winter Conference on Applications of Computer Vision, 2024
+  highlight: 0
+
 - title: "Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts"
   image: 2023_PnD.png
   description:  
@@ -32,8 +59,8 @@
   description:  
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Bei Liu, Hideki Nakayama
   link:
-    url: https://arxiv.org/abs/2306.00241
-    display: AI for Content Creation Workshop @CVPR, 2023
+    url: https://arxiv.org/abs/2307.08995
+    display: Winter Conference on Applications of Computer Vision, 2024
   highlight: 0
 
 - title: "A-CAP: Anticipation Captioning with Commonsense Knowledge"
