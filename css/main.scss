@@ -74,6 +74,11 @@ firstp {
 	padding-right: 16px;
 }
 
+.col-sm-12 img {
+	object-fit: scale-down;
+	max-height: 150px;
+}
+
 /* Grid overrides */
 .col-sm-4 {
 	padding-left: 26px;
