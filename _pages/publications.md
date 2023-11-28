@@ -17,7 +17,6 @@ permalink: /publications
  
 {% assign number_printed = 0 %}
 
-<ol>
  
 {% for publi in site.data.publist %}
 
@@ -33,7 +32,6 @@ permalink: /publications
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <li>
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ publi.title }}"/>
   <p>{{ publi.description }}</p>
@@ -43,7 +41,6 @@ permalink: /publications
   <p> {{ publi.news2 }}</p>
   <p> {{ publi.news3 }}</p>
   <p> {{ publi.news4 }}</p>
-  </li>
  </div>
 </div>
 
@@ -59,12 +56,8 @@ permalink: /publications
 {% endif %}
 {% endfor %}
 
-</ol>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+
 
 <p> &nbsp; </p>
 
