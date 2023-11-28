@@ -110,7 +110,7 @@ permalink: /publications
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-<ol>
+<ol start=number_printed>
 
 {% for publi in site.data.publist %}
 
@@ -121,6 +121,8 @@ permalink: /publications
 </li>
 
 {% endfor %}
+
+</ol>
 
 ### Domestic conference/workshop
 
