@@ -14,10 +14,10 @@ permalink: /publications
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). **
 
 {% assign number_printed = 0 %}
-
-
+ 
 {% for publi in site.data.publist %}
 
+<ol>
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
@@ -40,6 +40,7 @@ permalink: /publications
 </div>
 </li>
 
+</ol>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
