@@ -118,6 +118,7 @@ permalink: /publications
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% assign number_printed = number_printed | plus: 1 %}
 </li>
 
 {% endfor %}
@@ -126,7 +127,9 @@ permalink: /publications
 
 ### Domestic conference/workshop
 
+<!--
 {% assign number_printed = number_printed | plus: 1 %}
+-->
 
 <ol start=number_printed>
 
