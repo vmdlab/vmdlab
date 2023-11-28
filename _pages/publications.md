@@ -15,7 +15,6 @@ permalink: /publications
 
 {% assign number_printed = 0 %}
 
-<ol>
 
 {% for publi in site.data.publist %}
 
@@ -41,7 +40,6 @@ permalink: /publications
 </div>
 </li>
 
-</ol>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
