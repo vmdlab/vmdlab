@@ -14,6 +14,9 @@ permalink: /publications
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). **
 
 {% assign number_printed = 0 %}
+
+<ol>
+
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -22,11 +25,11 @@ permalink: /publications
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
+<li>
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" max-height="20vw" style="float: left" alt="{{ publi.title }}"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ publi.title }}"/>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -36,6 +39,9 @@ permalink: /publications
   <p> {{ publi.news4 }}</p>
  </div>
 </div>
+</li>
+
+</ol>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
