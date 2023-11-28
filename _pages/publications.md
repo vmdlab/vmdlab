@@ -118,9 +118,9 @@ permalink: /publications
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-  {% assign number_printed = number_printed | plus: 1 %}
+  
 </li>
-
+{% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
 
 </ol>
@@ -148,9 +148,11 @@ permalink: /publications
 
 {% assign number_printed = number_printed | plus: 1 %}
 
+<ol start=number_printed>
 {% for publi in site.data.jour_publist %}
-
+ <li>
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+</li>
 {% endfor %}
+</ol>
