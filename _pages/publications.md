@@ -48,7 +48,7 @@ permalink: /publications
 </div>
 
 
-</ol>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -58,6 +58,8 @@ permalink: /publications
 
 {% endif %}
 {% endfor %}
+
+</ol>
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
