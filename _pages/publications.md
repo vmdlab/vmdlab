@@ -14,7 +14,7 @@ permalink: /publications
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). **
 
 
- 
+<!--
 {% assign number_printed = 0 %}
 
  
@@ -62,10 +62,13 @@ permalink: /publications
 
 
 <p> &nbsp; </p>
+-->
+
+
 
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.jour_publist %}
+{% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -104,9 +107,8 @@ permalink: /publications
 
 <p> &nbsp; </p>
 
-
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.jour_publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
