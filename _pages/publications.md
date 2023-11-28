@@ -46,7 +46,6 @@ permalink: /publications
 
 
 
-
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -56,7 +55,10 @@ permalink: /publications
 {% endif %}
 {% endfor %}
 
-
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 <p> &nbsp; </p>
@@ -108,10 +110,15 @@ permalink: /publications
 
 {% assign number_printed = number_printed | plus: 1 %}
 
+<ol>
+
 {% for publi in site.data.publist %}
+
+<li>
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+</li>
 
 {% endfor %}
 
@@ -119,12 +126,18 @@ permalink: /publications
 
 {% assign number_printed = number_printed | plus: 1 %}
 
+<ol>
+
 {% for publi in site.data.dom_publist %}
 
+  <li>
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  </li>
 
 {% endfor %}
+
+</ol>
 
 ### Journal
 
