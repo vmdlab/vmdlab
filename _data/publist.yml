@@ -1,11 +1,13 @@
 - title: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"
-  image: coming_soon.jpg
+  image: 2023_EVCap.jpg
   description:  
   authors: JiaXuan Li, <b>Duc Minh Vo</b>, Akihiro Sugimoto, Hideki Nakayama
   link:
-    url: https://jiaxuan-li.github.io/EVCap/
-    display: Project page
-  highlight: 0
+    url: https://arxiv.org/abs/2311.15879
+    display: ArXiv
+  highlight: 1
+  news2: See [Project page](https://jiaxuan-li.github.io/EVCap/)
+  
   
 - title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
   image: coming_soon.jpg
@@ -14,7 +16,8 @@
   link:
     url: https://arxiv.org/abs/2311.12897
     display: ArXiv
-  highlight: 0
+  highlight: 1
+  news2: See [Code](https://github.com/raven38/EfficientDynamic3DGaussian/tree/main)
 
 - title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
