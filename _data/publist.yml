@@ -8,7 +8,15 @@
   highlight: 1
   news2: See [Project page](https://jiaxuan-li.github.io/EVCap/)
   
-  
+- title: "Persistent Test-time Adaptation in Episodic Testing Scenarios"
+  image: coming_soon.jpg
+  description:  
+  authors: Trung-Hieu Hoang, <b>Duc Minh Vo</b>, Minh N.Do
+  link:
+    url: https://arxiv.org/abs/2311.18193
+    display: ArXiv
+  highlight: 1
+    
 - title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
   image: coming_soon.jpg
   description:  
