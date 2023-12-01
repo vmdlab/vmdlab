@@ -4,12 +4,14 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
   <url>
     <loc>https://vmdlab.github.io/404.html</loc>
     <lastmod>2023-11-17T22:32:58+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+-->
   <url>
     <loc>https://vmdlab.github.io/allnews.html</loc>
     <lastmod>2023-11-17T22:32:58+09:00</lastmod>
@@ -37,19 +39,19 @@
   </url>
 -->
   <url>
-    <loc>https://vmdlab.github.io/publications/</loc>
+    <loc>https://vmdlab.github.io/publications.html</loc>
     <lastmod>2023-11-17T22:32:58+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vmdlab.github.io/research/</loc>
+    <loc>https://vmdlab.github.io/research.html</loc>
     <lastmod>2023-11-17T22:32:58+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vmdlab.github.io/team/</loc>
+    <loc>https://vmdlab.github.io/team.html</loc>
     <lastmod>2023-11-17T22:32:58+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
