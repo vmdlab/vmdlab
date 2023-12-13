@@ -1,3 +1,13 @@
+- title: "Anticipation Captioning with Commonsense Knowledge"
+  image: coming_soon.jpg
+  description:  
+  authors: <b>Duc Minh Vo</b>, Quoc-An Luong, Akihiro Sugimoto, Hideki Nakayama
+  link:
+    url: https://www.jstage.jst.go.jp/article/isj/62/6/62_588/_article/-char/ja/
+    display: Journal of the Imaging Society of Japan, 2023 (Invited commentorary paper)
+  highlight: 0
+  news2:
+
 - title: "Stochastically Flipping Labels of Discriminator’s Outputs for Training Generative Adversarial Networks"
   image: coming_soon.jpg
   description:  
