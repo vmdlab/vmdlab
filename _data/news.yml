@@ -4,22 +4,20 @@
 
   JSPS Grant-in-Aid for Early-Career Scientists  (KAKENHI) FY 2024 - 2025.
   
-
 - date: <b>Jan 2024</b>
   headline: Attending WACV 2024 in Hawaii, US.
 
 - date: <b>Dec 2023</b>
   headline: Attending EMNLP 2023 in Singapore.
 
-
 - date: <b>Nov 2023</b>
   headline: 3 papers submitted to CVPR 2024.
 
 - date: <b>Oct 2023</b>
   headline: |
-    A commentary paper accepted for publication in 日本画像学会誌 (Journal of the Imaging Society of Japan): Anticipation Captioning with Commonsense Knowledge
+    A commentary paper accepted for publication in 日本画像学会誌 (Journal of the Imaging Society of Japan): Anticipation Captioning with Commonsense Knowledge.
     
-    3 papers accepted to WACV 2024
+    3 papers accepted to WACV 2024:
     + Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data
     + Revisiting Latent Space of GAN Inversion for Robust Real Image Editing
     + Label Augmentation as Inter-class Data Augmentation for Conditional Image Synthesis with Imbalanced Data
