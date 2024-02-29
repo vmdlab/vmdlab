@@ -141,4 +141,4 @@ Jump to [team](#team), [collaborators](#collaborators), [administrative support]
 
 
 ## Administrative Support
-<a href="mailto:hahaha@gmail.com">Dao Hoang Anh</a> is helping us with administration.
+Please contact <a href="mailto:hahaha@gmail.com">Vo Minh Duc</a> for help with administration.
