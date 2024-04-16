@@ -6,6 +6,10 @@ sitemap: false
 permalink: /research
 ---
 
+## Award
+委員特別賞. 言語処理学会第30回年次大会(NLP2024).
+
+
 ## Research Fund
 National Institute of Informatics Open Collaborative Research 2024 (¥1.200.000). 
 
