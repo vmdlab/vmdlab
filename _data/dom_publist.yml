@@ -1,3 +1,21 @@
+- title: "Improving the Robustness of 3D Human Pose Estimation: A Benchmark Dataset and Learning from Noisy Input"
+  image: coming_soon.jpg
+  description:  
+  authors: Trung-Hieu Hoang, Mona Zehn, Huy Phan, <b>Duc Minh Vo</b>, Minh N. Do
+  link:
+    url: 
+    display: IEEE CVPR workshop on fair, data-efficient, and trusted computer vision, 2024
+  highlight: 0
+  
+- title: "Multimodal Large Language Model Meets New Knowledge: A Preliminary Study"
+  image: coming_soon.jpg
+  description:  
+  authors: Junwen Mo, Jiaxuan Li, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url: 
+    display: 言語処理学会第30回年次大会(NLP2024)
+  highlight: 0
+
 - title: "暗黙的な変形場を用いた変形可能な3D敵対的生成ネットワーク"
   image: coming_soon.jpg
   description:  
@@ -5,8 +23,7 @@
   link:
     url: 
     display: MIRU, 2023
-  highlight: 1
-
+  highlight: 0
 
 - title: "Robust Novel Object Captioning by Retrieving Objects from External Knowledge"
   image: coming_soon.jpg
