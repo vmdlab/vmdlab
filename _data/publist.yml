@@ -16,15 +16,6 @@
     url: https://arxiv.org/abs/2311.18193
     display: First Workshop on Test-Time Adaptation: Model, Adapt Thyself! (MAT), Community Track, CVPR 2024
   highlight: 1
-
-- title: "Improving the Robustness of 3D Human Pose Estimation: A Benchmark Dataset and Learning from Noisy Input"
-  image: coming_soon.jpg
-  description:  
-  authors: Trung-Hieu Hoang, Mona Zehn, Huy Phan, <b>Duc Minh Vo</b>, Minh N. Do
-  link:
-    url: https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Hoang_Improving_the_Robustness_of_3D_Human_Pose_Estimation_A_Benchmark_CVPRW_2024_paper.pdf
-    display: IEEE CVPR workshop on fair, data-efficient, and trusted computer vision, 2024
-  highlight: 0
     
 - title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
   image: coming_soon.jpg
