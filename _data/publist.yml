@@ -14,7 +14,7 @@
   authors: Trung-Hieu Hoang, <b>Duc Minh Vo</b>, Minh N.Do
   link:
     url: https://arxiv.org/abs/2311.18193
-    display: First Workshop on Test-Time Adaptation: Model, Adapt Thyself (MAT), Community Track, CVPR 2024
+    display: First Workshop on Test-Time Adaptation Model, Adapt Thyself (MAT), Community Track, CVPR 2024
   highlight: 1
 
 - title: "Improving the Robustness of 3D Human Pose Estimation: A Benchmark Dataset and Learning from Noisy Input"
