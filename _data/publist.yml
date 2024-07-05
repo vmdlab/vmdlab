@@ -26,15 +26,15 @@
     display: IEEE CVPR workshop on fair, data-efficient, and trusted computer vision, 2024
   highlight: 0
     
-- title: "An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes"
-  image: coming_soon.jpg
+- title: "A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis"
+  image: 2024_compact_3DGS.png
   description:  
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
   link:
     url: https://arxiv.org/abs/2311.12897
-    display: ArXiv
+    display: 2024 European Conference on Computer Vision
   highlight: 1
-  news2: See [Code](https://github.com/raven38/EfficientDynamic3DGaussian/tree/main)
+  news2: See [Project](https://compactdynamic3dgaussian.github.io/)
 
 - title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
