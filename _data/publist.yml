@@ -1,3 +1,13 @@
+- title: "A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis"
+  image: 2024_compact_3DGS.png
+  description:  
+  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
+  link:
+    url: https://arxiv.org/abs/2311.12897
+    display: 2024 European Conference on Computer Vision
+  highlight: 1
+  news2: See [Project page](https://compactdynamic3dgaussian.github.io/)
+
 - title: "EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension"
   image: 2023_EVCap.jpg
   description:  
@@ -24,17 +34,7 @@
   link:
     url: https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Hoang_Improving_the_Robustness_of_3D_Human_Pose_Estimation_A_Benchmark_CVPRW_2024_paper.pdf
     display: IEEE CVPR workshop on fair, data-efficient, and trusted computer vision, 2024
-  highlight: 0
-    
-- title: "A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis"
-  image: 2024_compact_3DGS.png
-  description:  
-  authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
-  link:
-    url: https://arxiv.org/abs/2311.12897
-    display: 2024 European Conference on Computer Vision
-  highlight: 1
-  news2: See [Project](https://compactdynamic3dgaussian.github.io/)
+  highlight: 0    
 
 - title: "Balancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space"
   image: coming_soon.jpg
