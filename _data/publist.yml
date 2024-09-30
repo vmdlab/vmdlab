@@ -1,3 +1,12 @@
+- title: "Persistent Test-time Adaptation in Recurring Testing Scenarios"
+  image: 2024_TTA.png
+  description:
+  authors: Trung-Hieu Hoang, <b>Duc Minh Vo</b>, Minh N.Do
+  link:
+    url: https://arxiv.org/abs/2311.18193
+    display: The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPs 2024
+  highlight: 1
+  
 - title: "A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis"
   image: 2024_compact_3DGS.png
   description:  
@@ -25,7 +34,7 @@
   link:
     url: https://arxiv.org/abs/2311.18193
     display: First Workshop on Test-Time Adaptation Model, Adapt Thyself (MAT), Community Track, CVPR 2024
-  highlight: 1
+  highlight: 0
 
 - title: "Improving the Robustness of 3D Human Pose Estimation: A Benchmark Dataset and Learning from Noisy Input"
   image: coming_soon.jpg
