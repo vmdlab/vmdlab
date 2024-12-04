@@ -46,6 +46,7 @@
     url: https://arxiv.org/abs/2311.18193
     display: The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS 2024
   highlight: 1
+  news2: See [Project page](https://hthieu166.github.io/petta)
   
 - title: "A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis"
   image: 2024_compact_3DGS.png
