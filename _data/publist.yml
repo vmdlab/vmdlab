@@ -65,7 +65,8 @@
     url: https://arxiv.org/abs/2311.15879
     display: IEEE Computer Vision and Pattern Recognition (CVPR), 2024 
   highlight: 1
-  news2: See [Project page](https://jiaxuan-li.github.io/EVCap/)
+  news2: Invited talk at MIRU, 2024
+  news3: See [Project page](https://jiaxuan-li.github.io/EVCap/)
   
 - title: "Persistent Test-time Adaptation in Episodic Testing Scenarios"
   image: 2024_TTA.png
@@ -179,7 +180,7 @@
   authors: Kai Katsumata, <b>Duc Minh Vo</b>, Hideki Nakayama
   link:
     url: https://openaccess.thecvf.com/content/CVPR2022/papers/Katsumata_OSSGAN_Open-Set_Semi-Supervised_Image_Generation_CVPR_2022_paper.pdf
-    display:  EEE  Computer Vision and Pattern Recognition (CVPR), 2022 
+    display:  IEEE Computer Vision and Pattern Recognition (CVPR), 2022 
   highlight: 1
   news2: Invited talk at MIRU, 2022
   news3: See [code](https://github.com/raven38/OSSGAN)
