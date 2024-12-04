@@ -1,3 +1,43 @@
+- title: "NEMO: Can Multimodal LLMs Identify Attribute-Modified Objects?"
+  image: 2024_NEMO.png
+  description:
+  authors: JiaXuan Li, Junwen Mo, <b>Duc Minh Vo</b>, Akihiro Sugimoto, Hideki Nakayama
+  link:
+    url: https://arxiv.org/abs/2411.17794
+    display: Arxiv 2024
+  highlight: 1
+  news2: See [Project page](https://jiaxuan-li.github.io/NEMO/)
+
+- title: "R.I.P.: A Simple Black-box Attack on Continual Test-time Adaptation"
+  image: coming_soon.jpg
+  description:
+  authors: Trung-Hieu Hoang, <b>Duc Minh Vo</b>, Minh N.Do
+  link:
+    url: https://arxiv.org/abs/2412.01154
+    display: Arxiv 2024
+  highlight: 1
+  news2: See [Project page](https://hthieu166.github.io/rip)
+
+
+- title: "Uncovering the Risk of Model Collapsing in Self-Supervised Continual Test-time Adaptation"
+  image: coming_soon.jpg
+  description:
+  authors: Trung-Hieu Hoang, <b>Duc Minh Vo</b>, Minh N.Do
+  link:
+    url: https://openreview.net/pdf?id=EFS2hfLuUF
+    display: Workshop on Self-Supervised Learning - Theory and Practice, NeurIPs 2024
+  highlight: 0
+
+- title: "Questioning, Answering, and Captioning for Zero-Shot Detailed Image Caption"
+  image: coming_soon.jpg
+  description:
+  authors: Duc-Tuan Luu, Viet-Tuan Le, <b>Duc Minh Vo</b>
+  link:
+    url: https://openaccess.thecvf.com/content/ACCV2024W/LAVA/papers/Luu_Questioning_Answering_and_Captioning_for_Zero-Shot_Detailed_Image_Caption_ACCVW_2024_paper.pdf
+    display: Workshop on Large Vision - Language Model Learning and Applications, ACCV 2024
+  highlight: 0
+
+
 - title: "Persistent Test-time Adaptation in Recurring Testing Scenarios"
   image: 2024_TTA.png
   description:
